@@ -549,7 +549,7 @@ h6 {
   font-weight: 700;
   letter-spacing: 1px;
   font-family: var(--heading-font);
-  color: var(--heading-color);
+  color: var(--accent-color);
 }
 
 .footer .footer-about p {
