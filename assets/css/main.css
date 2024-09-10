@@ -726,7 +726,7 @@ h6 {
   right: 15px;
   bottom: -15px;
   z-index: 99999;
-  background-color: var(--accent-color);
+  background-color: #25D366;
   width: 60px;
   height: 60px;
   border-radius: 50px;
@@ -740,7 +740,7 @@ h6 {
 }
 
 .whatsapp-btn:hover {
-  background-color: color-mix(in srgb, var(--accent-color), transparent 20%);
+  background-color: color-mix(in srgb, #25D366, transparent 30%);
   color: var(--contrast-color);
 }
 
